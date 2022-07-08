@@ -1,2 +1,2 @@
 # Image-classifier
-Classifying image using custom made KNN algorithm.
+Custom made Knn to classify Image
